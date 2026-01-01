@@ -1,0 +1,13 @@
+diff --git a/lab/data/shipping_routes.csv b/lab/data/shipping_routes.csv
+new file mode 100644
+index 0000000000000000000000000000000000000000..6f711efcfabca154c62a1ca9563327b6edbd34c8
+--- /dev/null
++++ b/lab/data/shipping_routes.csv
+@@ -0,0 +1,7 @@
++route_id,supplier_id,origin_port,destination_port,transit_risk
++RT-1001,SUP-001,Port Klang,Rotterdam,0.42
++RT-1002,SUP-002,Ambarli,Hamburg,0.38
++RT-1003,SUP-003,Gothenburg,Boston,0.22
++RT-1004,SUP-004,Durban,Shanghai,0.51
++RT-1005,SUP-005,Piraeus,New York,0.29
++RT-1006,SUP-006,Ningbo,Los Angeles,0.63

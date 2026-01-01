@@ -1,0 +1,8 @@
+diff --git a/lab/requirements.txt b/lab/requirements.txt
+new file mode 100644
+index 0000000000000000000000000000000000000000..e97ef4bfce48c56f0678d8146936d70b6f89b08e
+--- /dev/null
++++ b/lab/requirements.txt
+@@ -0,0 +1,2 @@
++pandas==2.2.2
++numpy==2.0.1

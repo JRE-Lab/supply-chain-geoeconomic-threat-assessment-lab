@@ -1,0 +1,13 @@
+diff --git a/lab/data/suppliers.csv b/lab/data/suppliers.csv
+new file mode 100644
+index 0000000000000000000000000000000000000000..a194039bce21e4d2e0236459105472e0359acb85
+--- /dev/null
++++ b/lab/data/suppliers.csv
+@@ -0,0 +1,7 @@
++supplier_id,name,country,sector,critical_component,ownership_parent,revenue_usd_m,sanctions_flag,reliability_score,concentration_share
++SUP-001,Volta Microfab,Malaysia,Semiconductors,Analog chips,Volta Holdings,420,0,0.82,0.28
++SUP-002,Arclight Steelworks,Turkey,Metals,Specialty steel,Arclight Group,310,0,0.74,0.22
++SUP-003,Nordhaven Bearings,Sweden,Industrial,Bearings,Nordhaven AB,190,0,0.9,0.12
++SUP-004,Blackridge Mining,South Africa,Mining,Cobalt ore,Blackridge Resources,515,0,0.68,0.25
++SUP-005,Orion Marine Logistics,Greece,Logistics,Port handling,Orion Maritime,260,0,0.77,0.13
++SUP-006,Eastbridge Polymers,China,Chemicals,Specialty polymers,Eastbridge Holdings,640,1,0.55,0.3

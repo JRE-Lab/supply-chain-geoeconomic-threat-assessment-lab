@@ -1,0 +1,12 @@
+diff --git a/lab/data/trade_dependencies.csv b/lab/data/trade_dependencies.csv
+new file mode 100644
+index 0000000000000000000000000000000000000000..0236650751a3a94652f4934c22e3947bc6c0e396
+--- /dev/null
++++ b/lab/data/trade_dependencies.csv
+@@ -0,0 +1,6 @@
++country,product,import_dependency_pct
++United States,Specialty polymers,68
++United States,Cobalt ore,54
++Germany,Specialty steel,46
++Netherlands,Analog chips,59
++United States,Bearings,31

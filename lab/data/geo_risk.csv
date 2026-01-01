@@ -1,0 +1,13 @@
+diff --git a/lab/data/geo_risk.csv b/lab/data/geo_risk.csv
+new file mode 100644
+index 0000000000000000000000000000000000000000..83f94a8efae9afc1d7dfd9b8d8d4bece092ecb41
+--- /dev/null
++++ b/lab/data/geo_risk.csv
+@@ -0,0 +1,7 @@
++country,political_risk,regulatory_risk,conflict_risk,currency_risk
++Malaysia,0.32,0.28,0.22,0.24
++Turkey,0.58,0.47,0.41,0.52
++Sweden,0.12,0.15,0.08,0.1
++South Africa,0.46,0.4,0.35,0.39
++Greece,0.3,0.33,0.18,0.29
++China,0.64,0.6,0.48,0.55
